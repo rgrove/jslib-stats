@@ -24,7 +24,7 @@ techniques. Please keep this in mind when considering the results.
 Installing
 ----------
 
-    git://github.com/rgrove/jslib-stats.git
+    git clone git://github.com/rgrove/jslib-stats.git
     cd jslib-stats
     npm link
     npm link jslib-stats
